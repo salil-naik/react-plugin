@@ -1,0 +1,7 @@
+if(statement1 && statement2) do the following
+
+functionCall()
+
+
+
+statement1 = false
