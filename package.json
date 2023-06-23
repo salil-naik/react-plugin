@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.21.5",
